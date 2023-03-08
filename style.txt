@@ -1,0 +1,12 @@
+The code starts with a body tag.
+The body is the main container for all of the content in an HTML document.
+It has a background color and font family set to be black and sans-serif, respectively.
+The next line sets up flexbox layout mode on the body element so that it can be laid out horizontally across multiple columns.
+This is done by setting display: flex; on the body element followed by align-items: center; .
+justify-content: center; also centers text within each column of this layout mode.
+margin: 0; removes any space from around elements, while overflow-x: hidden prevents content from spilling outside its box's boundaries when there isn't enough room to fit everything inside them (elements will still expand vertically).
+Next comes h1 tags which are used as headings for sections or chapters in a document.
+They have margins set at 10px to make sure they don't overlap other headings below them, and transform property values are applied so that they appear above their parent section instead of underneath it like normal text would do without these properties being applied (translateX(400%) translates 400% of their width into positive X coordinates).
+Finally, two boxes are created using CSS
+The code is a CSS snippet that will create the following: A 400px wide, 200px tall box with rounded corners and a shadow.
+The box has an h2 heading in it.

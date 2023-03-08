@@ -1,0 +1,16 @@
+The code starts with the <html> tag.
+The <head> tag contains meta tags, which are used to specify the character encoding and viewport settings for the document.
+Next is a link to style.css, which sets up all of the CSS styles for this page.
+The title of this page is "Scroll Animation".
+This is set in an h1 element inside a div called box that has been given class="box" .
+Inside each box there are two h2 elements, one on top and one on bottom.
+These are used as headers for each section of content in that particular box.
+Inside each header there's another div with class="box" , but it doesn't have any heading or anything else in it yet because we haven't told it what to do yet!
+We'll get back to that later when we talk about JavaScript functions like addClass() .
+For now just know that these boxes will contain different sections of content throughout this webpage (and they're not limited by their position either).
+After those boxes come some text: "Content 1", "Content 2", etc., followed by more boxes without headings until you reach "Content 16".
+After Content 16 comes some more text: "Content 17", then another
+The code creates a webpage with 20 divs, each containing a heading.
+The first heading is "Content 1", the second is "Content 2", and so on.
+Each of these headings are displayed in a different color.
+The code also includes an animation that scrolls up and down to reveal the content below it, one by one.

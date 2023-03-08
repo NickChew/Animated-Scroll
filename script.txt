@@ -1,0 +1,9 @@
+The code starts by declaring a variable called boxes.
+This is an array of all the <div> elements that are inside the document with class="box".
+Then it declares a function called checkBoxes which takes in one parameter, window.
+The code then creates an event listener for when the user scrolls down and calls checkBoxes every time they scroll up.
+The first line of code starts by creating a variable called triggerBottom which will be used to calculate how high off the bottom of the screen we need to scroll before we can see any box on screen.
+Next, it loops through each element in boxes and checks if their top is less than or equal to triggerBottom.
+If so, they have been scrolled too far and therefore should show up now; otherwise, they haven't been scrolled enough yet and should not show up yet (they're still hidden).
+The code attempts to add a class of show when the user scrolls down and remove the class of show when the user scrolls up.
+The code above has been written in order to do this, by using an event listener that will check if the top of a box is below or equal to a triggerBottom value.
